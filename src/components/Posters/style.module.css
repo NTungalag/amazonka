@@ -1,0 +1,12 @@
+.Posters {
+  margin-top: 85px;
+  display: grid;
+  /* flex: 50%;
+  /* flex-flow: row wrap; 
+  align-items: flex-start;
+
+  flex-wrap: wrap; */
+
+  grid-template-columns: 49.2% 49.2%;
+  justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+.Women {
+  margin-top: 80px;
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  top: 78px;
+  align-items: center;
+}

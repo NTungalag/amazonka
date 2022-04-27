@@ -1,0 +1,14 @@
+.SideBar {
+  width: 300px;
+  background-color: white;
+  position: fixed;
+  top: 56px;
+  left: 0;
+  color: black;
+  display: flex;
+  flex-flow: column;
+  z-index: 150;
+  align-items: left;
+  padding-left: 30px;
+  height: 100%;
+}

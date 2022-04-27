@@ -1,0 +1,23 @@
+.Product {
+  display: flex;
+  flex-flow: column;
+  width: 29%;
+  background-color: transparent;
+}
+
+.Product a img {
+  padding: 0;
+  width: 100%;
+}
+.Product h4 {
+  padding: 4px 0;
+  margin: 0;
+  font-weight: 700;
+}
+.Product p {
+  margin: 0;
+}
+.Description {
+  color: grey;
+  font-size: x-small;
+}

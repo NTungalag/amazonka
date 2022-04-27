@@ -1,0 +1,9 @@
+.Icon {
+  height: 100%;
+  display: block;
+  padding: 10px;
+}
+
+.Icon a img {
+  height: 20px;
+}

@@ -1,0 +1,53 @@
+.ProductInfo {
+  margin-top: 80px;
+  background-color: rgb(211, 178, 214);
+  display: flex;
+  flex-flow: row;
+  top: 78px;
+  align-items: center;
+}
+.Detail {
+  width: 67%;
+  margin: 20px;
+}
+.Detail2 {
+  width: 33%;
+  margin: 20px;
+  background-color: rgb(19, 96, 190);
+  display: flex;
+  flex-flow: column;
+}
+
+.Images {
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.Images img {
+  padding: 4px;
+}
+.Uzuulelt {
+  background-color: white;
+  margin: 30px 0;
+}
+.Uzuulelt h6 {
+  padding: 20px;
+}
+.Info {
+  margin: 5px 40px;
+  background-color: rgb(222, 230, 240);
+  display: flex;
+  flex-flow: row;
+}
+.infoList1 {
+  font-weight: 600;
+  color: rgba(28, 30, 29, 0.889);
+}
+.infoList2 {
+  color: rgba(0, 0, 0, 0.47);
+}
+ul {
+  list-style: none;
+}

@@ -1,0 +1,18 @@
+.Cashmere {
+  margin-top: 80px;
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  top: 78px;
+  align-items: center;
+}
+
+.Cashmere .background {
+  background-image: url(https://cdn5.shoppy.mn/img/56189/original/bg.jpg);
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.Cashmere .background h3 {
+  padding-bottom: 20px;
+}

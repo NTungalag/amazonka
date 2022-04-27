@@ -1,0 +1,29 @@
+.Toolbar {
+  width: 100%;
+  height: 84px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(16, 94, 20, 0.205); */
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20 px;
+  z-index: 100;
+  color: black;
+  display: flex;
+  flex-flow: row;
+  font-size: 14px;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  box-shadow: rgba(32, 32, 32, 0.673) 0px 20px 20px -20px;
+}
+.Toolbar nav {
+  display: flex;
+  flex-flow: row;
+}
+@media (max-width: 500px) {
+  .OnMobile {
+    display: none;
+  }
+}

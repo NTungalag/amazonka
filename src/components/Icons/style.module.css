@@ -1,0 +1,7 @@
+.Icons {
+  height: 100%;
+  display: flex;
+  flex-flow: row;
+  margin: 20px;
+  align-items: center;
+}

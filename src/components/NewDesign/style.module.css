@@ -1,0 +1,31 @@
+.NewDesign {
+  background-color: tr;
+  display: flex;
+  width: 50%;
+  flex-flow: column;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 80px;
+}
+
+.NewDesign h3 {
+  padding: 0;
+  margin: 0;
+  font-size: medium;
+}
+.NewDesign p {
+  color: rgba(128, 128, 128, 0.639);
+  font-size: smaller;
+}
+.NewDesign img {
+  width: 100%;
+}
+.NewDesign a {
+  color: white;
+  padding: 6px 8px;
+  text-decoration: none;
+
+  width: fit-content;
+  border: solid black;
+  background-color: black;
+}

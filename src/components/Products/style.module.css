@@ -1,0 +1,7 @@
+.Products {
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 16px;
+}

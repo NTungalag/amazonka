@@ -1,0 +1,20 @@
+.Search {
+  margin-top: 84px;
+  width: 100%;
+  background-color: transparent;
+  z-index: 120;
+  align-items: center;
+  transition: all 0.5s ease-out;
+}
+.Search input {
+  margin: 9px 2%;
+  width: 95%;
+  height: 40px;
+  background-color: #dedce0dc;
+  border-radius: 40px;
+  border: transparent;
+  padding-left: 15px;
+}
+.Search input :focus {
+  border-color: rgba(0, 0, 255, 0.411);
+}

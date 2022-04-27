@@ -1,0 +1,231 @@
+[
+  {
+    "title": "I DESERVE IT SWEATSHIRT-LIMITED EDITION",
+    "desciption": "KHANDGAI SWEATSHIRT",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/1092247/large/9_%281%29.jpg://cdn3.shoppy.mn/spree/images/1192750/product/43.png"
+    ],
+    "price": 180000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "GRAPHITY SWEATSHIRT-LIMITED EDITION",
+    "desciption": "KHANDGAI SWEATSHIRT",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/1092243/large/7.jpg",
+      "https://cdn3.shoppy.mn/spree/images/1092244/large/8_%282%29.jpg",
+      "https://cdn3.shoppy.mn/spree/images/1092245/large/green_print.jpg",
+      "https://cdn3.shoppy.mn/spree/images/1092246/large/%D0%9D%D3%A8%D0%90%D0%A2-%D0%B8%D0%B9%D0%BD_%D0%B1%D0%B0%D1%80%D0%B8%D0%BC%D1%82.png"
+    ],
+    "price": 180000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "TEAM MONGOLIA MERCH T-SHIRT",
+    "desciption": "T-shirt",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/1092247/large/9_%281%29.jpg://cdn3.shoppy.mn/spree/images/1192750/product/43.png"
+    ],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": " TOKYO 2020 OLYMPICS MERCH T-SHIRT",
+    "desciption": "T-SHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/1103496/large/99.jpg"],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "CREATIVE HANDS T-SHIRT",
+    "desciption": "T-SHIRT",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/1032068/large/greator_hand_white.jpg",
+      "https://cdn3.shoppy.mn/spree/images/1032064/large/greator_hand_white.jpg"
+    ],
+    "price": 180000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "CHAIN T-SHIRT",
+    "desciption": "T-SHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/1022024/large/chain.jpg"],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": " ",
+    "desciption": " SWEATSHIRT",
+    "src": [" "],
+    "price": 180000,
+    "size": ["L", "XL", "XXL"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "БНМАУ T-SHIRT WHITE",
+    "desciption": "T-SHIRT",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/1000031/large/bnmau_white.jpg"
+    ],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "MONGOLIA T-SHIRT BLACK",
+    "desciption": " SWEATSHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/987885/large/4.jpg"],
+    "price": 150000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "POWER OF ARSLAN T-SHIRT",
+    "desciption": "T-SHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/987884/large/3.jpg"],
+    "price": 90000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": " ",
+    "desciption": " SWEATSHIRT",
+    "src": [" "],
+    "price": 180000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "MICHELAMAZONKA",
+    "desciption": "T-SHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/973685/large/2.jpg"],
+    "price": 180000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "MICHELAMAZONKA",
+    "desciption": "T-SHIRT",
+    "src": ["https://cdn3.shoppy.mn/spree/images/973683/large/bnmau.jpg"],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "STAY-AT-HOME T-SHIRT",
+    "desciption": "T-SHIRT",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/973681/large/stay_at_home.jpg"
+    ],
+    "price": 65000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  },
+  {
+    "title": "VIRIDITY BLUE ZIPPER CARDIGAN",
+    "desciption": "SKIRT!",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/919948/large/36.jpg",
+      "https://cdn3.shoppy.mn/spree/images/919949/large/37.jpg"
+    ],
+    "price": 1561000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Cashmere",
+    "season": "All season"
+  },
+  {
+    "title": "VIRIDITY WHITE SWEATER",
+    "desciption": "Sweater",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/920238/large/43.jpg",
+      "https://cdn3.shoppy.mn/spree/images/919994/large/44.jpg"
+    ],
+    "price": 1540000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Cashmere",
+    "season": "All season"
+  },
+  {
+    "title": "VIRIDITY WHITE JUMPER",
+    "desciption": "Cashmere",
+    "src": [
+      "https://cdn3.shoppy.mn/spree/images/920291/large/41.jpg",
+      "https://cdn3.shoppy.mn/spree/images/919953/large/42.jpg"
+    ],
+    "price": 1561000,
+    "size": ["s", "m", "l"],
+    "classification": "male",
+    "ageType": "Adult",
+    "color": "red",
+    "material": "Daawuun",
+    "season": "All season"
+  }
+]

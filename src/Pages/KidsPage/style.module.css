@@ -1,0 +1,12 @@
+.Kids {
+  margin-top: 80px;
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  top: 78px;
+  align-items: center;
+}
+.Kids h3 {
+  align-content: center;
+  padding-bottom: 40px;
+}

@@ -1,0 +1,18 @@
+.MenuItem {
+  margin: 0;
+  font-family: sans-serif;
+  display: block;
+  width: 100%;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+}
+.MenuItem .link {
+  height: fit-content;
+  text-decoration: none;
+  color: Black;
+  display: block;
+  padding: 25px 30px;
+}
+.MenuItem .link:hover {
+  text-decoration: underline;
+}

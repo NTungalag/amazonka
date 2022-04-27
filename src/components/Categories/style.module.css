@@ -1,0 +1,6 @@
+.Categories {
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  padding: 20px 0;
+}

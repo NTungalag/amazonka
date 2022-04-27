@@ -1,0 +1,13 @@
+.Menu {
+  list-style: none;
+  height: fit-content;
+  display: flex;
+  flex-flow: row;
+  padding: 18px;
+  margin: 2px;
+}
+@media (max-width: 500px) {
+  .Menu {
+    flex-direction: column;
+  }
+}
